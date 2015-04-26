@@ -35,7 +35,7 @@
                     <span id="statsTab" class="button active">Statistics</span>
                 </div>
                 <div id="expContainer">
-                    Explosion Points: <span id="exp">0</span>
+                    Explosion Points: <span id="exp">1000</span>
                 </div>
             </div>
             <div id="main">
